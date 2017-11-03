@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="eight_ball">
+        <item>@drawable/ball1</item>
+        <item>@drawable/ball2</item>
+        <item>@drawable/ball3</item>
+        <item>@drawable/ball4</item>
+        <item>@drawable/ball5</item>
+    </integer-array>
+</resources>
